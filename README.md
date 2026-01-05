@@ -1,4 +1,6 @@
-# Data Structures & Algorithms Study Guide
+# :construction: Data Structures & Algorithms Study Guide :construction:
+
+_NOTE this repo is under construction. It's being updated weekly and I aim to complete v1 by Feb 2026_
 
 ## Introduction
 
