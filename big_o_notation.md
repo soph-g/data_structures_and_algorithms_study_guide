@@ -60,5 +60,5 @@ And then any others you're interested in.
 
 ## Next Steps
 
-Jump in to understanding Built-In Types in your language _(content coming soon)_
+Jump in to understanding [Built-In Types](./built_in_types.md) in your language.
 
