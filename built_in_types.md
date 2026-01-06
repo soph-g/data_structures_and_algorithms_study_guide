@@ -39,7 +39,7 @@ These Leetcode questions don't require any special data structure knowledge, the
 - [ ] [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-_Coming soon, a guide to reading & understanding LeetCode questions_
+I wrote a short guide to LeetCode, [here](guide_to_leetcode.md).
 
 ## Learning Tips
 
