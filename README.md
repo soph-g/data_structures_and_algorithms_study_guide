@@ -35,6 +35,35 @@ If there are some concepts that need to be understood before the study area you 
 
 You can clone this repo, and use it to track your learning. There are checkboxes to tick and spaces to add your own notes for this purpose.
 
+## Index
+
+### Possible starting points
+Any of these topics would make a good starting point, but I suggest tackling them in order:
+
+1. [Big O Notation](./big_o_notation.md)
+2. [Built-in Types](./built_in_types.md)
+3. [Arrays](./arrays.md)
+
+### Coming Soon
+
+4. Hash Tables
+5. Linked Lists
+6. Queues
+7. Stacks
+8. Trees
+9. Binary Tree
+10. Heap
+11. Binary Search Tree
+12. Graph
+
+### Algorithms (coming soon)
+
+1. Binary Search
+2. Tree Traversals
+3. Bubble Sort
+4. Merge Sort
+5. Quick Sort
+
 ## I've spotted an error
 
 Please open a pull request to correct it! Small changes don't need explaining in detail, but larger changes should have a detailed PR.
