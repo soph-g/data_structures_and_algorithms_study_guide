@@ -60,5 +60,5 @@ I think [this article](https://www.interviewcake.com/article/python/data-structu
 ## Going Further
 If you haven't already, take a look at [Big O Notation](./big_o_notation.md).
 
-Or, you can look at data structures in more detail, starting with Arrays _(content coming soon)_. 
+Or, you can look at data structures in more detail, starting with [Arrays](./arrays.md). 
 
