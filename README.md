@@ -39,7 +39,11 @@ You can clone this repo, and use it to track your learning. There are checkboxes
 
 Please open a pull request to correct it! Small changes don't need explaining in detail, but larger changes should have a detailed PR.
 
+## Buy me a coffee
 
+It takes time and energy to build this guide, if you've found it useful and you'd like to say thank you please consider [buying me a coffee :coffee:](https://buymeacoffee.com/slvg).
+
+Thanks, and happy coding :sun_with_face:
 
 
 
