@@ -6,6 +6,36 @@ It can be different to understand how to read a problem statement, and then frus
 
 This guide aims to make it all a bit clearer!
 
+## Guiding Principles
+
+### Never spend more than 30 minutes on an individual problem
+I aim to finish a problem within 15 minutes, and will sometimes stretch to 20 if I am making good progress.
+
+Going beyond the 20 minutes usually means I am missing some knowledge that is crucial for solving the problem, or have mis-understood a requirement. 
+
+After 30 minutes, you are wasting your time and you will overall progress faster by looking at the solution.
+
+If you find that you cannot solve any problems in under 30 minutes, then you need to use the steps below to find easier problems, or take some time away to practice even simpler coding challenges (there is nothing wrong with this!)
+
+### Looking at the solution is not cheating
+That is, providing you have spent at least 15 minutes trying to solve the problem.
+
+At that point you are switching from a coding challenge to a learning exercise, which is crucial to your growth
+
+### Read the problem carefully & take time to plan
+
+Jumping straight to code makes it more likely that you will code the wrong thing.
+
+### Challenge yourself to get it right first time
+
+NOTE: This is not advisable if you are new to LeetCode!
+
+If you are gaining confidence, try to test yourself to not use the test cases, but instead walk through your code step by step manually testing different inputs.
+
+And then, only hit the Submit button when you are confident the code will pass.
+
+This will encourage you to plan your approach and code carefully, which can be really helpful in interviews.
+
 ## Finding a Problem
 
 If you are new to LeetCode, make sure you are starting off with problems that you are likely to be able to solve. This isn't cheating, it's common sense!
