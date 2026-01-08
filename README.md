@@ -44,9 +44,12 @@ Any of these topics would make a good starting point, but I suggest tackling the
 2. [Built-in Types](./built_in_types.md)
 3. [Arrays](./arrays.md)
 
+### Other Modules
+
+4. [Hash Tables](./hash_tables.md)
+
 ### Coming Soon
 
-4. Hash Tables
 5. Linked Lists
 6. Queues
 7. Stacks
