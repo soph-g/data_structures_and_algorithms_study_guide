@@ -51,6 +51,6 @@ These LeetCode questions are all about traversing and manipulating Arrays. As me
 
 ## Next Steps
 
-Hash Tables _(content coming soon)_ are another useful data structure that is often provided as a built-in type, and it's a good next step from here.
+[Hash Tables](./hash_tables.md) are another useful data structure that is often provided as a built-in type, and it's a good next step from here.
 
 
