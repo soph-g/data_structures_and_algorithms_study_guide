@@ -36,4 +36,4 @@ I recommend checking at least one solution for every problem you attempt. Even i
 
 ## Next Steps
 
-Arrays and Hash Tables are probably the more common data types that you will come across. You're ready to start looking at something you might not have worked with before, a Linked List _(content coming soon)_.
+Arrays and Hash Tables are probably the more common data types that you will come across. You're ready to start looking at something you might not have worked with before, a [Linked List](./linked_lists.md).

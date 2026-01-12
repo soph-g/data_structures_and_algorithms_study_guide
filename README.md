@@ -47,10 +47,10 @@ Any of these topics would make a good starting point, but I suggest tackling the
 ### Other Modules
 
 4. [Hash Tables](./hash_tables.md)
+5. [Linked Lists](./linked_lists.md)
 
 ### Coming Soon
 
-5. Linked Lists
 6. Queues
 7. Stacks
 8. Trees
@@ -66,6 +66,7 @@ Any of these topics would make a good starting point, but I suggest tackling the
 3. Bubble Sort
 4. Merge Sort
 5. Quick Sort
+6. Topological Sort
 
 ## I've spotted an error
 
