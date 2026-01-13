@@ -48,16 +48,16 @@ Any of these topics would make a good starting point, but I suggest tackling the
 
 4. [Hash Tables](./hash_tables.md)
 5. [Linked Lists](./linked_lists.md)
+6. [Queues](./queues.md)
 
 ### Coming Soon
 
-6. Queues
 7. Stacks
 8. Trees
 9. Binary Tree
 10. Heap
 11. Binary Search Tree
-12. Graph
+12. Graphs
 
 ### Algorithms (coming soon)
 

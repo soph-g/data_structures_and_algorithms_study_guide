@@ -1,6 +1,6 @@
 # Linked Lists
 
-## Prerequistes
+## Prerequisites
 
 I would recommend understanding both [Arrays](./arrays.md) and [Hash Tables](./hash_tables.md) so you can better understand the differences between the three data structures.
 
@@ -48,5 +48,5 @@ These problems get progressively harder. As always, don't spend more than 30 min
 
 ## Next Steps
 
-One common usecase of a Linked List is a Queue, making it a good next step _(content coming soon)_
+One common usecase of a Linked List is a [Queue](./queues.md), making it a good next step _(content coming soon)_
 
