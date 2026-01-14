@@ -49,10 +49,10 @@ Any of these topics would make a good starting point, but I suggest tackling the
 4. [Hash Tables](./hash_tables.md)
 5. [Linked Lists](./linked_lists.md)
 6. [Queues](./queues.md)
+7. [Stacks](./stacks.md)
 
 ### Coming Soon
 
-7. Stacks
 8. Trees
 9. Binary Tree
 10. Heap

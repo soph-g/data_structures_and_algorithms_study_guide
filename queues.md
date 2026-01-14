@@ -27,7 +27,7 @@ You could also use an [Array](./arrays.md) to implement a queue, using a pointer
 
 - [ ] [Time needed to buy tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)
 
-The next problems are all 'Medium' - for more 'Easy' practice skip to [Stacks]() _content coming soon_
+The next problems are all 'Medium' - for more 'Easy' practice skip to [Stacks](./stacks.md).
 - [ ] [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
 - [ ] [Find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache)
@@ -40,6 +40,6 @@ Cracking the Coding Interview has a nice chapter on Stacks & Queues that has lot
 
 ## Next Steps
 
-A Stack _(content coming soon)_ is similar to a Queue, but instead of FIFO ordering it uses Last In First Out ordering.
+A [Stack](./stacks.md) is similar to a Queue, but instead of FIFO ordering it uses Last In First Out ordering.
 
 Queues can be useful when traversing Trees _(content coming soon)_ or Graphs _(content coming soon)_
