@@ -42,15 +42,15 @@ Any of these topics would make a good starting point, but I suggest tackling the
 
 1. [Big O Notation](./big_o_notation.md)
 2. [Built-in Types](./built_in_types.md)
-3. [Arrays](./arrays.md)
+3. [Arrays](./data_structures/arrays.md)
 
 ### Other Modules
 
-4. [Hash Tables](./hash_tables.md)
-5. [Linked Lists](./linked_lists.md)
-6. [Queues](./queues.md)
-7. [Stacks](./stacks.md)
-8. [Trees](./trees.md)
+4. [Hash Tables](./data_structures/hash_tables.md)
+5. [Linked Lists](./data_structures/linked_lists.md)
+6. [Queues](./data_structures/queues.md)
+7. [Stacks](./data_structures/stacks.md)
+8. [Trees](./data_structures/trees.md)
 
 ### Coming Soon
 

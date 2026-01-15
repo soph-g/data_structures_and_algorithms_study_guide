@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-Having a basic understanding of [Big O Notation](./big_o_notation.md) will be helpful for understanding the time and space complexity of arrays and array operations.
+Having a basic understanding of [Big O Notation](../big_o_notation.md) will be helpful for understanding the time and space complexity of arrays and array operations.
 
-Array is usually available as a [Built-in Type](./built_in_types.md).
+Array is usually available as a [Built-in Type](../built_in_types.md).
 
 ## Introduction
 
