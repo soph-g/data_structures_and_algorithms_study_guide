@@ -40,6 +40,6 @@ The Cracking the Coding Interview chapter on Stacks & Queues has some great prac
 
 ## Next Steps
 
-From this point, [Trees]() _(content coming soon)_ are a good next step.
+From this point, [Trees](./trees.md) are a good next step.
 
 Or, if you wanted to start learning algorithms, [Binary Search]() _(content coming soon)_ is a good place to start.
