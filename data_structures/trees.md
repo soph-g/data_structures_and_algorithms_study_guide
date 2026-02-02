@@ -60,5 +60,5 @@ You will get plenty more practice in the Binary Tree section!
 
 ## Next Steps
 
-You can either understand the different Traversal Methods _(content coming soon)_, or look at Binary Trees in more detail _(content coming soon)_.
+You can either understand the different Traversal Methods _(content coming soon)_, or look at [Binary Trees](./binary_tree.md) in more detail.
 

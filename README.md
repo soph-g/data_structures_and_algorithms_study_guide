@@ -51,10 +51,10 @@ Any of these topics would make a good starting point, but I suggest tackling the
 6. [Queues](./data_structures/queues.md)
 7. [Stacks](./data_structures/stacks.md)
 8. [Trees](./data_structures/trees.md)
+9. [Binary Trees](./data_structures/binary_tree.md)
 
 ### Coming Soon
 
-9. Binary Tree
 10. Heap
 11. Binary Search Tree
 12. Graphs
