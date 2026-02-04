@@ -44,8 +44,9 @@ Any of these topics would make a good starting point, but I suggest tackling the
 2. [Built-in Types](./built_in_types.md)
 3. [Arrays](./data_structures/arrays.md)
 
-### Other Modules
+### Data Structures
 
+Data Structures:
 4. [Hash Tables](./data_structures/hash_tables.md)
 5. [Linked Lists](./data_structures/linked_lists.md)
 6. [Queues](./data_structures/queues.md)
@@ -53,20 +54,24 @@ Any of these topics would make a good starting point, but I suggest tackling the
 8. [Trees](./data_structures/trees.md)
 9. [Binary Trees](./data_structures/binary_tree.md)
 
+### Algorithms
+1. [Binary Search](./algorithms/binary_search.md)
+
 ### Coming Soon
 
+Data Structures:
 10. Heap
 11. Binary Search Tree
 12. Graphs
 
-### Algorithms (coming soon)
-
-1. Binary Search
+Algorithms:
 2. Tree Traversals
-3. Bubble Sort
-4. Merge Sort
-5. Quick Sort
-6. Topological Sort
+3. Depth First Search
+4. Breadth First Search
+5. Bubble Sort
+6. Merge Sort
+7. Quick Sort
+8. Topological Sort
 
 ## I've spotted an error
 

@@ -1,4 +1,4 @@
-# Trees
+# Binary Trees
 
 ## Prerequisites
 
