@@ -59,7 +59,7 @@ Any of these topics would make a good starting point, but I suggest tackling the
 ### Algorithms
 
 1. [Binary Search](./algorithms/binary_search.md)
-2. Tree Traversals _(coming soon)_
+2. [Tree Traversals](./algorithms/tree_traversals.md)
 3. Depth First Search _(coming soon)_
 4. Breadth First Search _(coming soon)_
 5. Bubble Sort _(coming soon)_

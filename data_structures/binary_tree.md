@@ -43,7 +43,7 @@ It's really easy to find binary tree problems, but here is a small selection of 
 
 ## Next Steps
 From here you can either:
-- Learn how to traverse trees _(content coming soon)_, or
+- Learn how to [traverse trees](../algorithms/tree_traversals.md), or
 - Learn about Binary Search Trees _(content coming soon)_, or
 - Learn about Heaps _(content coming soon)_
 
