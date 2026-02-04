@@ -46,32 +46,26 @@ Any of these topics would make a good starting point, but I suggest tackling the
 
 ### Data Structures
 
-Data Structures:
 4. [Hash Tables](./data_structures/hash_tables.md)
 5. [Linked Lists](./data_structures/linked_lists.md)
 6. [Queues](./data_structures/queues.md)
 7. [Stacks](./data_structures/stacks.md)
 8. [Trees](./data_structures/trees.md)
 9. [Binary Trees](./data_structures/binary_tree.md)
+10. Heap _(coming soon)_
+11. Binary Search Tree _(coming soon)_
+12. Graphs _(coming soon)_
 
 ### Algorithms
+
 1. [Binary Search](./algorithms/binary_search.md)
-
-### Coming Soon
-
-Data Structures:
-10. Heap
-11. Binary Search Tree
-12. Graphs
-
-Algorithms:
-2. Tree Traversals
-3. Depth First Search
-4. Breadth First Search
-5. Bubble Sort
-6. Merge Sort
-7. Quick Sort
-8. Topological Sort
+2. Tree Traversals _(coming soon)_
+3. Depth First Search _(coming soon)_
+4. Breadth First Search _(coming soon)_
+5. Bubble Sort _(coming soon)_
+6. Merge Sort _(coming soon)_
+7. Quick Sort _(coming soon)_
+8. Topological Sort _(coming soon)_
 
 ## I've spotted an error
 
