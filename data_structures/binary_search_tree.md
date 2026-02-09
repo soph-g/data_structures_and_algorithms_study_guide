@@ -34,5 +34,5 @@ If the binary search tree is _balanced_ then a binary search tree can match a so
 
 ## Next Steps
 
-From here you could look at [Heaps](./heaps.md) or graphs _(content coming soon)_, or check out [binary search](../algorithms/binary_search.md)
+From here you could look at [Heaps](./heaps.md) or [Graphs](./graphs.md), or check out [binary search](../algorithms/binary_search.md)
 
