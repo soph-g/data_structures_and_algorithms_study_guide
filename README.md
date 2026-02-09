@@ -53,7 +53,7 @@ Any of these topics would make a good starting point, but I suggest tackling the
 8. [Trees](./data_structures/trees.md)
 9. [Binary Trees](./data_structures/binary_tree.md)
 10. [Binary Search Tree](./data_structures/binary_search_tree.md)
-11. Heap _(coming soon)_
+11. [Heaps](./data_structures/heaps.md)
 12. Graphs _(coming soon)_
 
 ### Algorithms

@@ -46,6 +46,6 @@ It's really easy to find binary tree problems, but here is a small selection of 
 From here you can either:
 - Learn how to [traverse trees](../algorithms/tree_traversals.md), or
 - Learn about [Binary Search Trees](./binary_search_tree.md), or
-- Learn about Heaps _(content coming soon)_
+- Learn about [Heaps](./heaps.md)
 
 Each of these are equally good things to look at!
