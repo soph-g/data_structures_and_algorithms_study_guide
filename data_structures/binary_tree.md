@@ -27,6 +27,7 @@ This structure makes the size of the tree easier to estimate, and the tree more 
 - [ ] Given the number of nodes in a tree, be able to calculate it's minimum height.
 - [ ] Given the height of the tree, be able to calculate the maximum number of nodes
 - [ ] Be able to represent a binary tree in an Array
+- [ ] Try building your own implementation of a Binary Tree.
 
 ## Practice Problems
 It's really easy to find binary tree problems, but here is a small selection of increasing difficulty:
@@ -44,7 +45,7 @@ It's really easy to find binary tree problems, but here is a small selection of 
 ## Next Steps
 From here you can either:
 - Learn how to [traverse trees](../algorithms/tree_traversals.md), or
-- Learn about Binary Search Trees _(content coming soon)_, or
+- Learn about [Binary Search Trees](./binary_search_tree.md), or
 - Learn about Heaps _(content coming soon)_
 
 Each of these are equally good things to look at!
