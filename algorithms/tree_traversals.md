@@ -39,4 +39,4 @@ I'm not including any specific problems here, you should practice tree problems 
 
 ## Next Steps
 
-[Binary Search Tree](../data_structures/binary_search_tree.md) is a binary tree used to organise information. Or you could look at Depth First Search and Breadth First Search, which are both algorithms for searching for values in trees and graphs. _(content coming soon)_
+[Binary Search Tree](../data_structures/binary_search_tree.md) is a binary tree used to organise information. Or you could look at [Depth First Search](./depth_first_search.md) and [Breadth First Search](./breadth_first_search.md), which are both algorithms for searching for values in trees and graphs. 

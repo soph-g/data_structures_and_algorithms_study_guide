@@ -60,8 +60,12 @@ Any of these topics would make a good starting point, but I suggest tackling the
 
 1. [Binary Search](./algorithms/binary_search.md)
 2. [Tree Traversals](./algorithms/tree_traversals.md)
-3. Depth First Search _(coming soon)_
-4. Breadth First Search _(coming soon)_
+3. [Depth First Search](./algorithms/depth_first_search.md)
+4. [Breadth First Search](./algorithms/breadth_first_search.md)
+
+_*A note on sorting:* sorting vary rarely comes up in interview questions, so if you're got this far give yourself a pat on the back.
+At this point, if you are preparing for an interview, then it's a good idea to keep practicing with lots of different question types. Refer back to the [guide to LeetCode](./guide_to_leetcode.md) for a refresher on how to get the most out of your practice._  
+
 5. Bubble Sort _(coming soon)_
 6. Merge Sort _(coming soon)_
 7. Quick Sort _(coming soon)_
@@ -76,8 +80,4 @@ Please open a pull request to correct it! Small changes don't need explaining in
 It takes time and energy to build this guide, if you've found it useful and you'd like to say thank you please consider [buying me a coffee :coffee:](https://buymeacoffee.com/slvg).
 
 Thanks, and happy coding :sun_with_face:
-
-
-
-
 

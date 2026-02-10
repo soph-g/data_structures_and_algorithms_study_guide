@@ -44,6 +44,6 @@ Most introductary graph problems involve either Depth-First Search, or Breadth F
 
 ## Next Steps
 
-Definitely get stuck into Depth First Search _(content coming soon)_ and Breadth First Search _(content coming soon)_, so you can start practicing working with graphs.
+Definitely get stuck into [Depth First Search](../algorithms/depth_first_search.md) and [Breadth First Search](../algorithms/breadth_first_search.md), so you can start practicing working with graphs.
 
 If you haven't already covered [Trees](./trees.md) then it's a good time to look at this topic.
