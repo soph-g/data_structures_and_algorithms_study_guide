@@ -1,6 +1,6 @@
-# :construction: Data Structures & Algorithms Study Guide :construction:
+# Data Structures & Algorithms Study Guide
 
-_NOTE this repo is under construction. It's being updated weekly and I aim to complete v1 by Feb 2026_
+_NOTE this repo is in an MVP state - there might be errors or inconsistencies. If you find one, please open a PR!_
 
 ## Introduction
 
@@ -70,6 +70,16 @@ At this point, if you are preparing for an interview, then it's a good idea to k
 6. Merge Sort _(coming soon)_
 7. Quick Sort _(coming soon)_
 8. Topological Sort _(coming soon)_
+
+## Optimisations
+
+These are improvements I would like to make to this resource:
+- [ ] Add more extensive resources to each section
+- [ ] Add medium & hard problems to each section
+- [ ] Add the Sorting pages, currently missing.
+- [ ] Improve the guidance in the searching algorithms sections
+
+And many more minor improvements!
 
 ## I've spotted an error
 
